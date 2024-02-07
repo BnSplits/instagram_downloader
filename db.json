@@ -1,0 +1,34 @@
+{
+  "mint": {
+    "1920x1080": {
+      "image-link": {
+        "x": 420,
+        "y": 100
+      },
+      "exit-link": {
+        "x": 50,
+        "y": 950
+      },
+      "close-adblock": {
+        "x": 475,
+        "y": 60
+      },
+      "image-link-entry": {
+        "x": 800,
+        "y": 390
+      },
+      "launch-image-search": {
+        "x": 1180,
+        "y": 390
+      },
+      "download-button": {
+        "x": 635,
+        "y": 585
+      },
+      "download-more-button": {
+        "x": 960,
+        "y": 700
+      }
+    }
+  }
+}
